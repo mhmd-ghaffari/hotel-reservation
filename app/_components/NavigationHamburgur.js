@@ -85,7 +85,7 @@ export default function Navigation({ session }) {
                 alt={session.user.name}
                 referrerPolicy="no-referrer"
               />
-              <span>Guest area</span>
+              <span className="text-red-600">Guest area</span>
             </Link>
           ) : (
             <Link
