@@ -55,7 +55,7 @@ export default function Navigation({ session }) {
           isMenuOpen
             ? "max-h-[500px] opacity-100 translate-y-0"
             : "max-h-0 opacity-0 -translate-y-4"
-        } overflow-hidden md:max-h-[500px] md:opacity-100 md:translate-y-0 md:flex md:relative absolute right-20 md:right-0 bg-primary-600 md:bg-transparent flex-col md:flex-row gap-4 md:gap-16 items-center p-6  md:p-0 shadow md:shadow-none transition-all duration-500 ease-in-out transform`}
+        } overflow-hidden w-full md:max-h-[500px] md:opacity-100 md:translate-y-0 md:flex md:relative absolute right-0 bg-primary-900 md:bg-transparent flex-col md:flex-row gap-4 md:gap-16 items-center p-6  md:p-0 shadow md:shadow-none transition-all duration-500 ease-in-out transform`}
       >
         <li className="mb-4 md:mb-0">
           <Link
