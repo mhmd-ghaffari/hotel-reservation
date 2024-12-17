@@ -85,12 +85,12 @@ export default function Navigation({ session }) {
                 alt={session.user.name}
                 referrerPolicy="no-referrer"
               />
-              <span className="text-red-600">Guest area</span>
+              <span>Guest area</span>
             </Link>
           ) : (
             <Link
               href="/account"
-              className="hover:text-accent-400 transition-colors"
+              className="hover:text-accent-400 transition-colors text-red-500"
             >
               Guest area
             </Link>
