@@ -90,7 +90,7 @@ export default function Navigation({ session }) {
           ) : (
             <Link
               href="/account"
-              className="hover:text-accent-400 transition-colors text-red-500"
+              className="hover:text-accent-400 transition-colors"
             >
               Guest area
             </Link>
