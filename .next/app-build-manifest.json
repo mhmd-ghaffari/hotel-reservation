@@ -5,12 +5,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/error": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -20,6 +14,12 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/cabins/loading": [
       "static/chunks/webpack.js",
@@ -42,30 +42,30 @@
       "static/chunks/main-app.js",
       "static/chunks/app/cabins/[cabinId]/not-found.js"
     ],
-    "/cabins/thankyou/page": [
+    "/account/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/cabins/thankyou/page.js"
+      "static/chunks/app/account/page.js"
     ],
     "/account/loading": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/account/loading.js"
     ],
-    "/account/reservations/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/account/reservations/page.js"
-    ],
     "/account/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/account/layout.js"
     ],
-    "/account/page": [
+    "/account/reservations/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/account/page.js"
+      "static/chunks/app/account/reservations/page.js"
+    ],
+    "/account/reservations/edit/[bookingId]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/account/reservations/edit/[bookingId]/page.js"
     ]
   }
 }

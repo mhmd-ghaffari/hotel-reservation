@@ -81,7 +81,7 @@ function ReservationForm({ cabin, user }) {
           />
         </div>
 
-        <div className="flex justify-end items-center gap-6">
+        <div className="flex justify-start md:justify-end items-center gap-6">
           {!(startDate && endDate) ? (
             <p className="text-primary-300 text-base">
               Start by selecting dates
