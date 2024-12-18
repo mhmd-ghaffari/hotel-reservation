@@ -15,11 +15,16 @@ function ReservationList({bookings}) {
         
     }
     return (
-        <ul className="space-y-6">
-        {optimisticBookings.map((booking) => (
-          <ReservationCard onDelete={handleDelete} booking={booking} key={booking.id} />
-        ))}
-      </ul>
+      <ul className="space-y-4 md:space-y-6 px-2 md:px-0">
+      {optimisticBookings.map((booking) => (
+        <ReservationCard
+          onDelete={handleDelete}
+          booking={booking}
+          key={booking.id}
+        />
+      ))}
+    </ul>
+    
     )
 }
 
