@@ -25,7 +25,7 @@ function ReservationForm({ cabin, user }) {
 
   return (
     <div className="scale-[1.01]">
-      <div className="bg-primary-800 text-primary-300 px-16 py-2 flex justify-between items-center">
+      <div className="bg-primary-800 text-primary-300 px-16 py-2 flex justify-between items-center text-sm md:text-base">
         <p>Logged in as</p>
 
         <div className="flex gap-4 items-center">
@@ -55,7 +55,7 @@ function ReservationForm({ cabin, user }) {
           <select
             name="numGuests"
             id="numGuests"
-            className="px-5 py-3 bg-primary-200 text-primary-800 w-full shadow-sm rounded-sm"
+            className="px-5 text-base md:text-lg py-3 bg-primary-200 text-primary-800 w-full shadow-sm rounded-sm"
             required
           >
             <option value="" key="">
