@@ -12,7 +12,7 @@ function Logo() {
         width="60"
         alt="The Wild Oasis logo"
       />
-      <span className="text-lg font-semibold text-primary-100">
+      <span className="text-lg md:text-xl font-semibold text-primary-100">
         The Dreamy Hotel
       </span>
     </Link>
