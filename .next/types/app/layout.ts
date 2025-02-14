@@ -1,4 +1,4 @@
-// File: E:\Education\Projects\Nextjs Projects\the-wild-oasis\app\layout.js
+// File: E:\Education\Projects\Nextjs Projects\FullStack Hotel Reservation\hotel-reservation\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

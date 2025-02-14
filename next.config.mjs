@@ -5,18 +5,15 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "nkucfeqhnsyycsscgskw.supabase.co",
-        port: "",
-        pathname: "/storage/v1/object/public/cabin-images/**",
+        pathname: "/storage/v1/object/public/**", // این مسیر همه پوشه‌های Storage رو شامل میشه
       },
       {
         protocol: "https",
         hostname: "lh3.googleusercontent.com",
-        port: "",
-      
-      }
+      },
     ],
   },
-  // output: "export",
+  // output: "export", // این گزینه در صورت نیاز به Static Export استفاده میشه
 };
 
 export default nextConfig;

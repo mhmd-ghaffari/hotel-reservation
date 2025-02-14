@@ -1,5 +1,54 @@
 {
-  "node": {},
+  "node": {
+    "01f1c2f37cea85f737b3f8e334352a27d3d8cb6b": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CEducation%5C%5CProjects%5C%5CNextjs%20Projects%5C%5CFullStack%20Hotel%20Reservation%5C%5Chotel-reservation%5C%5Capp%5C%5C_lib%5C%5Caction.js%22%2C%5B%22signOutAction%22%2C%22UpdateGuest%22%2C%22deleteBooking%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateReservation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "2582e80215b092fe054c117d65ecf387473c9b44": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CEducation%5C%5CProjects%5C%5CNextjs%20Projects%5C%5CFullStack%20Hotel%20Reservation%5C%5Chotel-reservation%5C%5Capp%5C%5C_lib%5C%5Caction.js%22%2C%5B%22signOutAction%22%2C%22UpdateGuest%22%2C%22deleteBooking%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateReservation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "2c35346ffbdd02deae63217ea9dac9f2adcc29e7": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CEducation%5C%5CProjects%5C%5CNextjs%20Projects%5C%5CFullStack%20Hotel%20Reservation%5C%5Chotel-reservation%5C%5Capp%5C%5C_lib%5C%5Caction.js%22%2C%5B%22signOutAction%22%2C%22UpdateGuest%22%2C%22deleteBooking%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateReservation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "97fb0f744fdd94aa8513dbc3416bd4651ff596ce": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CEducation%5C%5CProjects%5C%5CNextjs%20Projects%5C%5CFullStack%20Hotel%20Reservation%5C%5Chotel-reservation%5C%5Capp%5C%5C_lib%5C%5Caction.js%22%2C%5B%22signOutAction%22%2C%22UpdateGuest%22%2C%22deleteBooking%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateReservation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "99929a5af323852f32b4e14c0d16055b048cbc09": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CEducation%5C%5CProjects%5C%5CNextjs%20Projects%5C%5CFullStack%20Hotel%20Reservation%5C%5Chotel-reservation%5C%5Capp%5C%5C_lib%5C%5Caction.js%22%2C%5B%22signOutAction%22%2C%22UpdateGuest%22%2C%22deleteBooking%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateReservation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "aa2d07adc0c8bdc053e181d20e0b55ac56e16051": {
+      "workers": {
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22E%3A%5C%5CEducation%5C%5CProjects%5C%5CNextjs%20Projects%5C%5CFullStack%20Hotel%20Reservation%5C%5Chotel-reservation%5C%5Capp%5C%5C_lib%5C%5Caction.js%22%2C%5B%22signOutAction%22%2C%22UpdateGuest%22%2C%22deleteBooking%22%2C%22signInAction%22%2C%22createBooking%22%2C%22updateReservation%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "k6tQmhWICnU5NHNvqxw0BTE60DS7j7bVDiKezLBIv3E="
+  "encryptionKey": "T9PtbIViEEb/gS0WlFipvmA5NssKITCXZnSzPt5Ij94="
 }
