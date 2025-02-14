@@ -37,7 +37,7 @@ function SideNavigation() {
     <>
       {/* Mobile Navigation Toggle */}
       <button
-        className="md:hidden p-3 absolute top-4 left-4 z-50 bg-primary-900 text-white rounded-lg"
+        className="md:hidden p-3 absolute top-10 left-4 z-50 bg-primary-900 text-white rounded-lg"
         onClick={() => setIsOpen(!isOpen)}
         aria-label="Toggle Navigation"
       >
